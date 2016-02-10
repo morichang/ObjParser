@@ -10,14 +10,11 @@
 #include <vector>
 
 struct float3d{
-	float x;
-	float y;
-	float z;
+	float x, y, z;
 };
 
 struct float2d{
-	float x;
-	float y;
+	float x, y;
 };
 
 typedef unsigned long u32;
